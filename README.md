@@ -1,3 +1,3 @@
-# Non-photorealistic Rendering (NPR) Sandbox
+# WebGPU Starter Project
 
-To be built in WebGPU. 
+Exploring WebGPU API following the tutorial [here](https://codelabs.developers.google.com/your-first-webgpu-app#2).
