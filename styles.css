@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  background: #111;
+  color: #eee;
+  text-align: center;
+  margin: 0;
+  padding: 1em;
+}
+
+canvas {
+  border: 1px solid #555;
+  margin-top: 1em;
+  width: 600px;
+  height: 600px;
+}
+
+.no-webgpu {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: red;
+  font-size: 1em;
+  display: none;
+}
